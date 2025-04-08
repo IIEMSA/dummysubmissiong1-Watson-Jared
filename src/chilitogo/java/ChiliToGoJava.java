@@ -42,6 +42,8 @@ public class ChiliToGoJava {
         total = ( adultTotalPrice + childTotalPrice );
         System.out.println("Grand Total for all meals is " + total);
         
+        System.out.println("");
+        
         
         
         
